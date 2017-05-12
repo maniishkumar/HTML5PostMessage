@@ -11,7 +11,7 @@ This is Enclosing App (we can say iFrame hosting/parent app). It will embedd an 
 # iFrameApp
 This app will be load in iFrame, embedded in Enclosing App. It will receive an message from EA and process it. It will also send separate message to EA.
 
-# Refereces
+# References
 
 https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
 
